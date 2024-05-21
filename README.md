@@ -10,9 +10,7 @@ The Body Mass Index (BMI) Calculator is a graphical user interface (GUI) applica
 
 2. **BMI Calculation**:
    - The BMI is calculated using the formula: 
-     \[
-     \text{BMI} = \frac{\text{weight (kg)}}{\text{height (m)}^2}
-     \]
+       ![image](https://github.com/MuskanSharma1/BMI-Calculator/assets/104593292/c813793e-a3f9-4816-90da-b86ebe1ad5dd)
    - The calculated BMI is displayed in a dedicated text area.
 
 3. **BMI Classification**:
